@@ -1,1 +1,1 @@
-
+Aspiring Python Full Stack Developer currently learning and strengthening my skills in Python, Django, HTML, CSS, JavaScript, and SQL. Passionate about web development and committed to building a strong foundation in full stack technologies. I enjoy learning new concepts, improving my coding skills, and exploring modern development practices.
